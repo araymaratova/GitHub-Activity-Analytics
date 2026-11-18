@@ -1,0 +1,17 @@
+type_name,events
+PushEvent,1784881
+CreateEvent,224330
+DeleteEvent,106695
+PullRequestEvent,27347
+IssueCommentEvent,14888
+IssuesEvent,10759
+WatchEvent,5237
+PullRequestReviewEvent,4848
+PullRequestReviewCommentEvent,3640
+ReleaseEvent,2830
+GollumEvent,1204
+ForkEvent,935
+MemberEvent,251
+CommitCommentEvent,126
+PublicEvent,108
+DiscussionEvent,45

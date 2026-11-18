@@ -1,0 +1,5 @@
+method,size_mb,read_seconds,peak_mem_mb
+CSV целиком (baseline),241.77,4.46,443.5
+CSV chunksize=200000,241.77,4.15,122.45
+Parquet (исходные типы),95.89,0.25,549.02
+Parquet (оптимизированные типы),99.84,0.27,447.65

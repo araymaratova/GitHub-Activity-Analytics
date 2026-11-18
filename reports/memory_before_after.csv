@@ -1,0 +1,11 @@
+column,dtype_before,dtype_after,mb_before,mb_after
+event_id,int64,int64,17.5,17.5
+type,str,category,38.3,2.2
+action,str,category,18.3,2.2
+created_at,str,"datetime64[us, UTC]",61.3,17.5
+actor_id,int64,int32,17.5,8.8
+actor_login,str,str,46.1,46.1
+is_bot,int64,int8,17.5,2.2
+repo_id,float64,Int64,17.5,19.7
+repo_name,str,str,74.3,74.3
+language,str,category,17.8,2.2

@@ -1,0 +1,5 @@
+approach,seconds,peak_mem_mb,matches_baseline
+baseline: CSV целиком (Pandas),3.71,377.5,да
+подход 1: CSV chunksize (Pandas),4.85,275.8,да
+"подход 2: Parquet, нужные колонки (Pandas)",1.98,507.8,да
+подход 3: SQLite + SQL,0.83,5.3,да

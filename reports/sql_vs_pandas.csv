@@ -1,0 +1,3 @@
+method,seconds
+SQL (GROUP BY в SQLite),0.515
+"Pandas (groupby, данные уже в памяти)",1.376
